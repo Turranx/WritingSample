@@ -1,4 +1,4 @@
-﻿What follows is an email I wrote and distributed to the network and systems engineers at one of my employers.  Please use this document to learn about my writing style, my approach to programming and automation, and how much respect I have for my coworkers.
+﻿What follows is an email I wrote and distributed to the network and systems engineers at one of my employers.  Please use this document to learn about my writing style, my approach to programming and automation, and how much respect I have for my coworkers.  Since this is being hosted on GitHub, I highly recommend that you turn on word-wrapping.
 
 
 In late 2019, Cliff Kuang wrote an article for Wired magazine entitled 'How the Dumb Design of a WWII Plane Led to the Macintosh'.  I am not a fan of Macintosh computers, but I am a fan of WWII history, and have a deep respect for how Apple managed to produce several products that "just work".  I read this article and walked away thinking "I can be like that.  That is who I want to be at work."
